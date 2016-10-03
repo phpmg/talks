@@ -8,7 +8,7 @@ Repositório com as palestras do PHP MG Talks e outros eventos
 Link para o evento transmitido ao vivo: https://www.youtube.com/watch?v=sJFXCI5_KR0
 
 1. PHP + Arduino - Daniel Azeredo
-2. [Frameworks, ORMs e Bibliotecas: Escolhas e Consequências](http://slides.com/naroga/deck#/) Pedro Cordeiro
+2. [Frameworks, ORMs e Bibliotecas: Escolhas e Consequências](http://slides.com/naroga/deck#/) - Pedro Cordeiro
 3. MaxPay, um Estudo de Caso - Tales Santos e Vinicius Coimbra
 
 #### 7º PHP MG Talks (20/08/2016)
