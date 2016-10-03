@@ -12,10 +12,10 @@ Link para o evento transmitido ao vivo: https://www.youtube.com/watch?v=sJFXCI5_
 
 #### 7º PHP MG Talks (20/08/2016)
 1. Design Patterns no PHP - Albo Oliveira
-2. Dicas de Segurança para o PHP e seus Amigos - Joubert RedRat
+2. [Dicas de Segurança para o PHP e seus Amigos](07-agosto/Joubert - Dicas de seguranca.pdf) - Joubert RedRat
 
 #### 6º PHP MG Talks (25/06/2016)
-1. Introdução ao OpenStack - Joubert RedRat
+1. [Introdução ao OpenStack](06-junho/Joubert - Introducao ao Openstack.pdf) - Joubert RedRat
 2. Empreendedorismo para Programadores - Felippe Chaves
 
 #### 5º PHP MG Talks (21/05/2016)
