@@ -26,7 +26,7 @@ Repositório com as palestras do PHP MG Talks e outros eventos
 2. Event Driven Development no Laravel - Erick Carvalho
 
 #### 3º PHP MG Talks - Especial Women Teckmakers (02/04/2016)
-1. Diversidade e Comunidades - Ana Soares
+1. [Diversidade e Comunidades](http://www.slideshare.net/annemaxime/diversidade-e-cincia-todas-as-provas-que-voc-precisava) - Ana Soares
 2. Flexibilizando sua Aplicação com PDO - Sarah Carolina
 3. Introdução ao Composer - Fernanda Feliciano
 
