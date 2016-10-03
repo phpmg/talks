@@ -39,7 +39,7 @@ Repositório com as palestras do PHP MG Talks e outros eventos
 
 ### Outros Eventos
 #### 1º Hangouts On-Air (17-09-2016)
-1. [O Mercado de Trabalho para Desenvolvedores PHP nos EUA - Bruno Leite](https://www.youtube.com/watch?v=T6TKmxZzT4Q)
+1. [O Mercado de Trabalho para Desenvolvedores PHP nos EUA](https://www.youtube.com/watch?v=T6TKmxZzT4Q) - Bruno Leite
 
 #### PHP 7 Pre Release Party (21/11/2015)
 1. As Novidades do PHP 7 - Pedro Chaves
