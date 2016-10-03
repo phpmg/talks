@@ -22,7 +22,7 @@ Repositório com as palestras do PHP MG Talks e outros eventos
 2. Optical Mark Recognition com PHP - Jansen Felipe
 
 #### 4º PHP MG Talks - Especial Laravel (30/04/2016)
-1. Corcel = Laravel + Wordpress - Junior Grossi
+1. [Corcel = Laravel + Wordpress](04-abril/Corcel = Laravel + Wordpress - Junior Grossi.pdf) - Junior Grossi
 2. Event Driven Development no Laravel - Erick Carvalho
 
 #### 3º PHP MG Talks - Especial Women Teckmakers (02/04/2016)
