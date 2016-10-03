@@ -33,7 +33,7 @@ Link para o evento transmitido ao vivo: https://www.youtube.com/watch?v=sJFXCI5_
 3. Introdução ao Composer - Fernanda Feliciano
 
 #### 2º PHP MG Talks (27/02/2016)
-1. Testes pra que te Quero - Yan Magalhães
+1. [Testes pra que te Quero](http://slides.com/yanmagale/testes-pra-que-te-quero#/) - Yan Magalhães
 2. Docker for Dummies - Danniel Magno
 
 #### 1º PHP MG Talks (23/01/2016)
