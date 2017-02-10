@@ -8,7 +8,7 @@ Repositório com as palestras do PHP MG Talks e outros eventos
 Link para o evento transmitido ao vivo: https://www.youtube.com/watch?v=ijR81BSEpPY
 
 1. Arquitetura de micro-serviços aplicada - Denis Lins
-2. Aplicações web modulares e plugáveis - Naylon Kessler
+2. [Aplicações web modulares e plugáveis: Ampliando o uso de eventos](http://www.naylonkessler.com/lectures/modular-pluggable-web-applications.pdf) - [Naylon Kessler](http://www.naylonkessler.com)
 3. Anti-patterns e premature optimization - Lucas Andrey
 
 #### 8º PHP MG Talks (01/10/2016)
