@@ -4,6 +4,13 @@ Repositório com as palestras do PHP MG Talks e outros eventos
 
 ## Índice
 ### Talks
+
+#### 10º PHP MG Talks (29/04/2017)
+Link para o evento transmitido ao vivo: [..]
+
+1. [Using Rails REST & AJAX JS library with (PHP|.+)](https://speakerdeck.com/jgrossi/using-rails-rest-and-ajax-js-library-with-php-dot-plus) - [Junior Grossi](https://github.com/jgrossi)
+2. Os Pilares da Orientação à Objetos e do SOLID numa perspectiva prática - Lorena Souza
+
 #### 9º PHP MG Talks (04/02/2017)
 Link para o evento transmitido ao vivo: https://www.youtube.com/watch?v=ijR81BSEpPY
 
