@@ -5,6 +5,9 @@ Repositório com as palestras do PHP MG Talks e outros eventos
 ## Índice
 ### Talks
 
+#### 11º PHP MG Talks (27/05/2017)
+1. [Como lidar com a dívida técnica](https://drive.google.com/open?id=0BwZatdeYtUtobnI2RTV3bktNc3c) - [Luiz Pedone](http://luizpedone.com/)
+
 #### 10º PHP MG Talks (29/04/2017)
 Link para o evento transmitido ao vivo: [..]
 
