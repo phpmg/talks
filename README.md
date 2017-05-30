@@ -6,10 +6,12 @@ Repositório com as palestras do PHP MG Talks e outros eventos
 ### Talks
 
 #### 11º PHP MG Talks (27/05/2017)
+Link para o evento transmitido ao vivo: https://www.youtube.com/watch?v=f-wOX5_7dKM
+
 1. [Como lidar com a dívida técnica](https://drive.google.com/open?id=0BwZatdeYtUtobnI2RTV3bktNc3c) - [Luiz Pedone](http://luizpedone.com/)
 
 #### 10º PHP MG Talks (29/04/2017)
-Link para o evento transmitido ao vivo: [..]
+Link para o evento transmitido ao vivo: https://www.youtube.com/watch?v=z0lRXGLogRQ
 
 1. [Using Rails REST & AJAX JS library with (PHP|.+)](https://speakerdeck.com/jgrossi/using-rails-rest-and-ajax-js-library-with-php-dot-plus) - [Junior Grossi](https://github.com/jgrossi)
 2. Os Pilares da Orientação à Objetos e do SOLID numa perspectiva prática - Lorena Souza
