@@ -10,6 +10,8 @@ Repositório com as palestras do PHP MG Talks e outros eventos
 
 #### 19º PHP MG Talks (28/10/2021)
 
+Link para o evento transmitido ao vivo: https://www.youtube.com/watch?v=rhzrHda5TDY
+
 #### 18º PHP MG Talks (31/10/2019)
 
 #### 17º PHP MG Talks (25/06/2019)
