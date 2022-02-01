@@ -5,8 +5,13 @@ Repositório com as palestras do PHP MG Talks e outros eventos
 ## Índice
 ### Talks
 
+#### 20º PHP MG Talks (11/02/2022)
+
+-
 
 #### 20º PHP MG Talks (16/12/2021)
+
+Link para o evento transmitido ao vivo: https://www.youtube.com/watch?v=mgkYlIGQHUM
 
 #### 19º PHP MG Talks (28/10/2021)
 
